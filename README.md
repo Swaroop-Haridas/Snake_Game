@@ -1,4 +1,4 @@
-# SnakeGame
+# Snake Game
 
 This Snake game is a classic arcade game implemented using Python programming language and data structures. It utilizes linked lists to represent the snake's body and queues to manage the game's logic. The SFML library is used for graphical rendering and input handling, providing a smooth and responsive gaming experience.
 
